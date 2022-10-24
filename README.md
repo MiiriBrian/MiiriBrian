@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working as a Network Engineer and Support Technician.<br>I'm also learning cloud computing in AWS as a Cloud Architect.<br> Reach me on my Email.
+Im currently working as a Network Engineer and Support Technician.<br>I'm also learning cloud computing in AWS as a Cloud Architect.<br> 
 
 
 ## 🌐 Socials:
