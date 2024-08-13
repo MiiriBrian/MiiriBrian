@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working as a Network Engineer and Support Technician.<br>I'm also a certified AWS Solutions Architect.<br> 
+Im currently working as an Infrastructure Engineer.<br>I'm also a certified AWS Solutions Architect and enjoy coding on the side.<br>
 
 
 ## 🌐 Socials:
